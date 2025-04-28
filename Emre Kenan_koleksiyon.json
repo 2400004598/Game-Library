@@ -1,0 +1,27 @@
+[
+    {
+        "ad": "Hollow Knight",
+        "tur": "Metroidvania",
+        "platform": "Windows Linux macOS Nintendo Switch PlayStation 4 Xbox One",
+        "puanlar": [
+            8,
+            10
+        ]
+    },
+    {
+        "ad": "Metro 2033 Redux",
+        "tur": "Survival-Horror",
+        "platform": " PlayStation 4, Nintendo Switch, Windows",
+        "puanlar": [
+            9
+        ]
+    },
+    {
+        "ad": "Mount & Blade: Warband",
+        "tur": "PlayStation 4, macOS, Android, Microsoft Windows",
+        "platform": "Macera, Strateji, Aksiyon",
+        "puanlar": [
+            7
+        ]
+    }
+]
